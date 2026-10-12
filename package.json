@@ -1,0 +1,13 @@
+{
+  "name": "watchtogether1-websocket",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Realtime chat and playback sync for WatchTogether",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}
